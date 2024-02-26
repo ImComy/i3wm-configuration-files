@@ -7,7 +7,7 @@ Since its my first rice I'd appreciate any adds and advice, Thanks!
 ***
 
 ## The Theme
-![Theme](/screenshot.png)
+![Theme](/theme.png)
 ![Theme](/screenshot2.png)
 
 ***
